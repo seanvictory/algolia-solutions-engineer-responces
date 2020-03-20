@@ -32,7 +32,7 @@ npm install
 npm start
 ```
 
-Open http://localhost:3000 to see your app.
+Open http://localhost:3000 to see the website.
 
 ## 💭 Next Steps
 
