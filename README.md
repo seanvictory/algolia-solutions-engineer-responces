@@ -14,13 +14,17 @@ Thanks to Algolia's [InstantSearch](https://www.algolia.com/products/instantsear
 
 * Search results are responsive and formatted for mobile and tablet layouts. Sponsors usually carry their phones or tablet in order to judge submissions, not a computer. I designed an interface to accomidate for screens of all sizes by dynamically resizing search result elements to fit the screen.
 
-* The search results are sorted by table number in *ascending* order so judges can take the most efficient route to view projects without needing to backtrack.
+* The search results are sorted by table number in *ascending* order, followed by the textual ranking criteria Algolia provides, so judges can take the most efficient route to view projects without needing to backtrack.
 
 * Duplicated instances of projects submitted for different prize categories are removed by turning on the `deduplication` setting in the Dashboard and sorting it by each project's table number. `Table number` was chosen as the attribute to determine if a project is unique over `Submission Title` because two submissions could potentially have the same name, but no two submissions could have the same table number.
 
 * Project headings are dynamically generated to include the `Submission Url`. Clicking on the submission title takes the user to the official Devpost submission, where they can view the project in more detail.
 
 * The submission's description is displayed in each search result to provide users with a glanceable summary of the project.
+
+* The minimum number of characters to accept *one* typo from was raised from `4` to `6`. This means users will get more accurate and targeted results when they type in the beginning letters of their submission title. Minimum number of characters to accept *two* typos has been increased from `8` to `9` for a similar reason.
+
+* The `Hits per page` was increased to 300 hits, as this ensures that all projects are seen on a single page. 
 
 
 ## 📋 Getting Started
