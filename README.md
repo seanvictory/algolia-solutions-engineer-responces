@@ -34,6 +34,8 @@ npm start
 
 Open http://localhost:3000 to see the website.
 
+Alternatively, you can visit the [GitHub Pages](https://seanvictory.github.io/algolia-solutions-engineer-responces/) website to interact with it.
+
 ## 💭 Next Steps
 
 In the future, I would love to include the functionality to upload a CSV through the front-end. It would make using the website for other hackathons a breeze, as I would be able to "hot-swap" different CSVs to sort the data as needed.
