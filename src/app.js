@@ -30,9 +30,6 @@ search.addWidgets([
 `,
     },
   }),
-  instantsearch.widgets.pagination({
-    container: '#pagination',
-  }),
   instantsearch.widgets.refinementList({
     // Adds a filter search for the prize category
     container: '#refinement-list',

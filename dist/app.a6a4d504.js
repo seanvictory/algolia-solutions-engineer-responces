@@ -139,8 +139,6 @@ search.addWidgets([instantsearch.widgets.searchBox({
   templates: {
     item: "\n<article>\n  <h1><a href={{#helpers.highlight}}{ \"attribute\": \"Submission Url\" }{{/helpers.highlight}}>{{#helpers.highlight}}{ \"attribute\": \"Submission Title\" }{{/helpers.highlight}}</a></h1>\n  <h3>Table {{#helpers.highlight}}{ \"attribute\": \"Table Number\" }{{/helpers.highlight}}</h3>\n  <p class=\"description\">{{#helpers.highlight}}{ \"attribute\": \"Submission Tagline\" }{{/helpers.highlight}}</p>\n</article>\n"
   }
-}), instantsearch.widgets.pagination({
-  container: '#pagination'
 }), instantsearch.widgets.refinementList({
   // Adds a filter search for the prize category
   container: '#refinement-list',

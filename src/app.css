@@ -64,7 +64,3 @@ body { font-family: "Phantom Sans", -apple-system, BlinkMacSystemFont, "Segoe UI
   width: calc(50% - 1rem);
 }
 
-.description {
-  color: light-grey;
-}
-
