@@ -55,3 +55,9 @@ I noticed that part of the Basketball dataset Algolia provided was incorrect. I 
 ### The Interview Process
 
 It is quite clear that Algolia's employees embody the company's core values: **grit**, **trust**, **care**, **candor**, and **humility**. Everyone I have interacted with thus far has displayed each of these qualities. Responses have been timely and informational and instructions have been detailed and accessible.
+
+---
+
+# Solutions Engineer: Part 2
+
+Responces for Part 2 of the Solutions Engineer Take Home Assignment can be found [here](https://github.com/seanvictory/algolia-solutions-engineer-responces/blob/master/Part2-responces.md)
