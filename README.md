@@ -12,7 +12,7 @@ Thanks to Algolia's [InstantSearch](https://www.algolia.com/products/instantsear
 
 * Filter submissions by **prize category**. The prize categories are sorted alphabetically so users can easily recognize their prize categories among a sea of others.
 
-* Search results are responsive and formatted for mobile and tablet layouts. **(NEED PHOTO OF MOBILE LAYOUT)**
+* Search results are responsive and formatted for mobile and tablet layouts. Sponsors usually carry their phones or tablet in order to judge submissions, not a computer. I designed an interface to accomidate for screens of all sizes by dynamically resizing search result elements to fit the screen.
 
 * The search results are sorted by table number in *ascending* order so judges can take the most efficient route to view projects without needing to backtrack.
 
@@ -20,7 +20,7 @@ Thanks to Algolia's [InstantSearch](https://www.algolia.com/products/instantsear
 
 * Project headings are dynamically generated to include the `Submission Url`. Clicking on the submission title takes the user to the official Devpost submission, where they can view the project in more detail.
 
-* Display the submission's description to provide users with a summary of the project.
+* The submission's description is displayed in each search result to provide users with a glanceable summary of the project.
 
 
 ## 📋 Getting Started
