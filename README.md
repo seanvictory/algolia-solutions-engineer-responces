@@ -12,7 +12,7 @@ Thanks to Algolia's [InstantSearch](https://www.algolia.com/products/instantsear
 
 * Filter submissions by **prize category**. The prize categories are sorted alphabetically so users can easily recognize their prize categories among a sea of others.
 
-* Search results are responsive and formatted for mobile and tablet layouts. Sponsors usually carry their phones or tablet in order to judge submissions, not a computer. I designed an interface to accomidate for screens of all sizes by dynamically resizing search result elements to fit the screen.
+* Search results are **responsive** and formatted for mobile and tablet layouts. Sponsors usually carry their phones or tablet in order to judge submissions, not a computer. I designed an interface to accomidate for screens of all sizes by dynamically resizing search result elements to fit the screen.
 
 * The search results are sorted by table number in *ascending* order, followed by the textual ranking criteria Algolia provides, so judges can take the most efficient route to view projects without needing to backtrack.
 
